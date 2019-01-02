@@ -1,12 +1,13 @@
 body {
-background-color: #B0E0E6;
+  background-color: #B0E0E6;
 }
-img {
- margin-left: 350px;
+
+.fig {
+  text-align: center;
 }
 
 .text {
-	text-align: center;
-	color: #8B0000;
-	font-size: 2em;
+   text-align: center;
+   color: #8B0000;
+   font-size: 2em;
 }
