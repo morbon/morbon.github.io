@@ -32,7 +32,6 @@ h2 {
 .container p {
 	font-family: 'Caveat', cursive;
 	font-size: 180%;
-	/*   color: #FF0040 ; */
 	-webkit-text-stroke: 1px  #FA5882;
 	-webkit-text-fill-color: #210B61;
 	display: flex;
