@@ -1,0 +1,55 @@
+html,
+body
+{
+	height: 100%;
+}
+
+body
+{
+	background: linear-gradient(to top left, powderblue, pink) no-repeat;
+}
+
+.png-header {
+	text-align: center;
+}
+
+.png-header img {
+	width: 40%;
+}
+
+h2 {
+	font-family: 'Pattaya', sans-serif;
+	font-size: 250%;
+	display: flex;
+	letter-spacing: 3px;
+	color: #BD21DDFF;
+	align-items: center;
+	justify-content: center;
+}
+
+.container p {
+	font-family: 'Caveat', cursive;
+	font-size: 180%;
+/*   color: #FF0040 ; */
+  -webkit-text-stroke: 1px  #FA5882;
+  -webkit-text-fill-color: #210B61;
+	display: flex;
+	letter-spacing: 3px;
+	align-items: center;
+	justify-content: center;
+}
+
+#cvg {
+	margin-top: 0;
+	padding-top: 0;
+	text-align: center;
+}
+
+#cvg img {
+	width: 20%;
+}
+
+.container h2 {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
