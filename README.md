@@ -5,4 +5,6 @@
 ## Тут я буду выкладывать свои  сайты:)
 
 #### Мой  мервый сайт  на GitHub про кино [КиноМонстр](https://morbon.github.io/kinomonster/index.html)
-#### Мое поздравление тебе --> [Кликай](https://morbon.github.io/pozdravlenie/)
+#### Открытки: 
+* С Новым годом --> [Кликай](https://morbon.github.io/pozdravlenie/)
+* С Рождеством --> [Кликай](https://morbon.github.io/Christmas/index.html)
