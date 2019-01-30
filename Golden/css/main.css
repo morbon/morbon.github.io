@@ -20,7 +20,7 @@ div {
 
 header {
 	background: url(../img/first-bg.jpg) no-repeat center top / cover;
-	height: 100vh;
+	padding-bottom: 160px;
 }
 
 .container {
