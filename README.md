@@ -2,10 +2,12 @@
 
 # Привет! #
 
-## Тут я буду выкладывать свои  сайты:)
+## Тут я буду выкладывать свои работы:)
 
 #### Мой  мервый сайт  на GitHub про кино [КиноМонстр](https://morbon.github.io/kinomonster/index.html)
-#### Сверстаный сайт с psd макета на html/css: [Golden pages](https://morbon.github.io/Golden/index.html)
+#### Верстка с psd макета: 
+* На html/css [Golden pages](https://morbon.github.io/Golden/index.html)
+* На html/css и flexbox [Treehouse Home](https://https://morbon.github.io/TreeHause/index.html)
 #### Открытки: 
 * [С Новым Годом](https://morbon.github.io/pozdravlenie/)
 * [С Рождеством](https://morbon.github.io/Christmas/index.html)
