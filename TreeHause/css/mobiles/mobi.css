@@ -1,0 +1,99 @@
+@media (max-width: 940px) {
+	.container {
+		width: 100%;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.logo-holder {
+		width: 100%;
+		text-align: center;
+		padding-top: 80px;
+	}
+	.navigation-holder {
+		display: none;
+	}
+
+	.navigation-holder--mobile-open {
+		display: block;
+		position: fixed;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		height: 100%;
+		width: 100%;
+		background-color: rgba(124,197,118,0.95); --- С прозрачностью ---
+		padding-top: 80px;
+	}
+
+	/*----------- header -------------*/
+	.heading-1 {
+		font-size: 40px;
+	}
+	.heading-2 {
+		font-size: 30px;
+	}
+	.subtitle {
+		font-size: 18px;
+	}
+	/*--------- service -----------*/
+	.col-1-of-3 {
+		width: 100%;
+	}
+	.row {
+		flex-direction: column;
+	}
+	/*--------- just-relax ----------*/
+	.background-icon {
+		display: none;
+	}
+	.background-foto {
+		width: 100%;
+	}
+	.special-bg-blok-content {
+		width: 100%;
+		padding: 35px 15px;
+	}
+	.navigation-button {
+		display: block;
+		position: fixed;
+		top: 0;
+		right: 0;
+		left: 0;
+		/* 			height: 30px; */
+		background-color: #fff;
+		color: #000;
+		text-transform: uppercase;
+		letter-spacing: -1px;
+		font-family: Montserrat;
+		font-size: 18px;
+		font-weight: 700;
+		text-align: center;
+		padding-top: 15px;
+		padding-bottom: 15px;
+		border-bottom: 1px solid #ccc;
+	}
+	.navigation-list {
+		flex-direction: column;
+		justify-content: space-between;
+		align-items: center;
+		text-align: center;
+		height: 100%;
+	}
+	.navigation-list li a  {
+		color: #fff;
+		font-size: 22px;
+	}
+	.navigation-list a:hover {
+		color: #fff;
+		border-bottom: 1px solid #fff;
+	}
+	.navigation-list a:focus {
+		color: #fff;
+		border-bottom: 1px solid #fff;
+	}
+	.navigation-list a:active {
+		color: #fff;
+		border-bottom: 1px solid #fff;
+	}
+}

@@ -1,0 +1,54 @@
+.heading-blok {
+	margin-bottom: 80px;
+	text-align: center;
+}
+
+
+.heading-1 {
+	font-family: Montserrat;
+	font-weight: 700;
+	color: #fff;
+	font-size: 60px;
+	line-height: 1.1;
+	text-transform: uppercase;
+  letter-spacing: -2px;
+  margin: 0;
+  margin-bottom: 30px;
+}
+
+.heading-2 {
+	font-family: Montserrat;
+	font-weight: 700;
+  font-size: 40px;
+  color: #222222;
+  line-height: 50px;
+  letter-spacing: -1px;
+  text-transform: uppercase;
+  margin: 0;
+  margin-bottom: 5px;
+}
+
+.heading-2.white {
+  color: #fff;
+}
+
+.heading-2.white em {
+	color: #6aa064;
+	font-style: normal;
+}
+
+
+
+.subtitle {
+	font-size: 20px;
+	color: #777777;
+	font-family: 'Roboto Slab';
+	margin-top: 0;
+}
+.subtitle.subtitle--header {
+	color: #ccc;
+}
+
+.margin-bottom-50 {
+	margin-bottom: 50px;
+}
