@@ -13,7 +13,7 @@ $(document).ready( function () {
 		if ( $nav.hasClass(navToggleClassName) ) {
 			$nav.fadeOut();
 			
-			setTimeOut(function(){
+			stylesheetetTimeOut(function(){
 				$nav.removeClass(navToggleClassName);
 			} , 1000)
 			
